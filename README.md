@@ -20,3 +20,4 @@
 * [Testing](https://angular.io/resources/live-examples/testing/ts/plnkr.html)
 * [App Specs](https://angular.io/resources/live-examples/testing/ts/app-specs.plnkr.html)
 * [Grab Bag of Specs](https://angular.io/resources/live-examples/testing/ts/bag-specs.plnkr.html)
+* [HTTP](https://angular.io/resources/live-examples/toh-6/ts/plnkr.html)
